@@ -1,1 +1,12 @@
-
+Whonix Automated Testing Suite is a behavior-driven testing framework
+developed to access the functionality of Whonix features, behaviors, and graphical
+interfaces. As stated by the founder, "...current Whonix development is slowed down
+by the time spent on manual testing as well as finding the causes for bugs"[1]. The
+contribution of an automated test suite allows for developers to run tests without manually
+executing them therefore increasing the efficiency, uniformity, and accuracy of development 
+cycles. With the testing suite utilizing Python 3, Dogtail, and Behave, the software suite 
+alleviates the tedious task of running individual tests and lets the software undertake 
+the role of testing execution. Consisting of feature files and step implementations, a major
+benefit of the software is the flexibility in allowing for future and customization feature
+tests. In conclusion, our contribution is intended to assist Whonix developers by contributing
+a testing suite that automates feature testing and discovery of bugs.
